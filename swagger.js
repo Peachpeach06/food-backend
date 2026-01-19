@@ -24,9 +24,6 @@ const options = {
     tags: [
       { name: "Auth", description: "Authentication & Authorization" },
       { name: "Users", description: "User management" },
-      { name: "Customers", description: "Customer management" },
-      { name: "Menus", description: "Food menu management" },
-      { name: "Orders", description: "Order processing" },
     ],
 
     components: {
